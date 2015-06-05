@@ -1,0 +1,11 @@
+J:\U\SNetSphinx\bin\Debug\ClearScript.dll
+J:\U\SNetSphinx\bin\Debug\ClearScript.pdb
+J:\U\SNetSphinx\bin\Debug\ClearScript.XML
+J:\U\SNetSphinx\ClearScript\obj\Debug\ClearScript.dll
+J:\U\SNetSphinx\ClearScript\obj\Debug\ClearScript.pdb
+J:\U\SNetSphinx\ClearScript\obj\Debug\ClearScript.csprojResolveAssemblyReference.cache
+F:\MyProject\SNetSphinx\bin\Debug\ClearScript.dll
+F:\MyProject\SNetSphinx\bin\Debug\ClearScript.pdb
+F:\MyProject\SNetSphinx\bin\Debug\ClearScript.XML
+F:\MyProject\SNetSphinx\ClearScript\obj\Debug\ClearScript.dll
+F:\MyProject\SNetSphinx\ClearScript\obj\Debug\ClearScript.pdb

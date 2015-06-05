@@ -1,0 +1,14 @@
+E:\工程项目\江门供电局输电线路智能巡检系统\江门电力\android_phone\LBSPointService\LogCat\bin\Debug\LogCat.dll
+E:\工程项目\江门供电局输电线路智能巡检系统\江门电力\android_phone\LBSPointService\LogCat\bin\Debug\LogCat.pdb
+E:\工程项目\江门供电局输电线路智能巡检系统\江门电力\android_phone\LBSPointService\LogCat\obj\Debug\ResolveAssemblyReference.cache
+E:\工程项目\江门供电局输电线路智能巡检系统\江门电力\android_phone\LBSPointService\LogCat\obj\Debug\LogCat.dll
+E:\工程项目\江门供电局输电线路智能巡检系统\江门电力\android_phone\LBSPointService\LogCat\obj\Debug\LogCat.pdb
+E:\工程项目\江门供电局输电线路智能巡检系统\江门电力\LBSPointService\LogCat\bin\Debug\LogCat.dll
+E:\工程项目\江门供电局输电线路智能巡检系统\江门电力\LBSPointService\LogCat\bin\Debug\LogCat.pdb
+E:\工程项目\江门供电局输电线路智能巡检系统\江门电力\LBSPointService\LogCat\obj\Debug\ResolveAssemblyReference.cache
+E:\工程项目\江门供电局输电线路智能巡检系统\江门电力\LBSPointService\LogCat\obj\Debug\LogCat.dll
+E:\工程项目\江门供电局输电线路智能巡检系统\江门电力\LBSPointService\LogCat\obj\Debug\LogCat.pdb
+F:\ProjectTest\SNetSphinx\LogCat\bin\Debug\LogCat.dll
+F:\ProjectTest\SNetSphinx\LogCat\bin\Debug\LogCat.pdb
+F:\ProjectTest\SNetSphinx\LogCat\obj\Debug\LogCat.dll
+F:\ProjectTest\SNetSphinx\LogCat\obj\Debug\LogCat.pdb

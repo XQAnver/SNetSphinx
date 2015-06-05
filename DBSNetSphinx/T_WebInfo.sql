@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[T_WebInfo]
+(
+	[ID] INT NOT NULL PRIMARY KEY, 
+    [PID] NCHAR(10) NULL, 
+    [WebID] BIGINT NULL, 
+    [Name] NCHAR(10) NULL, 
+    [Value] NVARCHAR(MAX) NULL, 
+    [Action] NCHAR(10) NULL, 
+    CONSTRAINT [FK_T_WEBINFO_WEBTREE] FOREIGN KEY ([WebID]) REFERENCES [T_WebTree]([ID])
+)

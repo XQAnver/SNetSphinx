@@ -1,0 +1,9 @@
+J:\U\SNetSphinx\DBSNetSphinx\bin\Debug\DBSNetSphinx.dacpac
+J:\U\SNetSphinx\DBSNetSphinx\bin\Debug\DBSNetSphinx.dll
+J:\U\SNetSphinx\DBSNetSphinx\bin\Debug\DBSNetSphinx.pdb
+J:\U\SNetSphinx\DBSNetSphinx\obj\Debug\Model.xml
+J:\U\SNetSphinx\DBSNetSphinx\obj\Debug\refactor.xml
+J:\U\SNetSphinx\DBSNetSphinx\obj\Debug\postdeploy.sql
+J:\U\SNetSphinx\DBSNetSphinx\obj\Debug\predeploy.sql
+J:\U\SNetSphinx\DBSNetSphinx\obj\Debug\DBSNetSphinx.dll
+J:\U\SNetSphinx\DBSNetSphinx\obj\Debug\DBSNetSphinx.pdb
